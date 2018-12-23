@@ -7,7 +7,8 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "storybook": "expo start --config ./app.storybook.json"
   },
   "dependencies": {
     "expo": "^31.0.2",
